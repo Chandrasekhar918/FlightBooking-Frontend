@@ -1,0 +1,45 @@
+:root{
+
+    
+    margin-top: 50px;
+}
+
+
+
+
+#up{
+margin-top: 25px;
+
+}
+
+.form-control, .form-select {
+    border-color:#f2af3d;;
+    color:black;
+
+   
+    font-size: 15px;
+}
+#black{
+    color:black;
+}
+.btn.btn-primary {
+    background-color: red;
+    border-color: red;
+}
+.img7{
+    margin-top: -32px;
+    background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2013/03/24/62334/05c541c6504b34f7b52b875c5f3ef156.jpg");
+height: 660px;
+}
+
+.cardd{
+    /*background-color:rgb(68, 67, 39);*/
+
+    border: 0;
+    color:#8027b8;
+    width:auto;
+    margin-top: 50px;
+    opacity: 5.5;
+   
+  
+}

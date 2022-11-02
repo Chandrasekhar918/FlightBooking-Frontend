@@ -1,0 +1,39 @@
+#d1{
+    margin-top: 20px;
+}
+#c1{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    height:350px;
+
+}
+
+#c2{
+    margin-top: -360px;
+    margin-left: 410px;
+    float: center;
+    height:350px;
+}
+
+
+#c3{
+    margin-top: -350px;
+    margin-left: 730px;
+    float: center;
+    
+    height:350px;
+}
+
+#c4{
+    margin-top: -350px;
+    margin-left: 1040px;
+    float: center;
+    height:350px;
+}
+
+#w1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
